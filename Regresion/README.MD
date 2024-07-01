@@ -1,4 +1,4 @@
 Ejercicio de Machine Learning con Regresión
 
 
-[![clasificacion.png](https://i.postimg.cc/QxjNpbyF/clasificacion.png)](https://postimg.cc/Cd6V0jY0)
+[![regresion.png](https://i.postimg.cc/3NJV6w6m/regresion.png)](https://postimg.cc/5YTsQff2)
